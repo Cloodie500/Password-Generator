@@ -1,2 +1,2 @@
 # Password-Generator
-Generates passwords based on your requirements
+http://cloodie500.github.io/Password-Generator
